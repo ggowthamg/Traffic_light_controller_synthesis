@@ -2,7 +2,7 @@
 
 ## Aim:
 
-Synthesize Traffic Light Controller design using Constraints and analyse area and Power reports.
+Synthesize Traffic Light Controller design using Constraints and analyse area and Power reports
 
 ## Tool Required:
 
